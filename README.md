@@ -3,7 +3,7 @@
 A personal portfolio website showcasing my skills, projects, and experience as a Full Stack Web Developer.
 
 ## 🔗 Live Demo
-[Click here to view portfolio](https://yourlink.netlify.app)
+[Click here to view portfolio](https://ashishjha84.github.io/Portfolio/)
 
 ## 🛠️ Built With
 - HTML5
