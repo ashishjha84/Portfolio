@@ -11,3 +11,13 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 - Python (local server)
 
 ## 📁 Project Structure
+
+portfolio/
+
+├── index.html      # Main HTML file
+
+├── style.css       # All styles
+
+├── server.py       # Python local server
+
+└── README.md       # Project info
